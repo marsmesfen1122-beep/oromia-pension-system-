@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+pension.db
+__pycache__/
+*.pyc
